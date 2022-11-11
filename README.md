@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Apratim Mantri</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub</title>
+</head>
+<body>
+    <h1 align="center">Hi 👋, I'm Apratim Mantri</h1>
 <h3 align="center">A passionate Digital Marketer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -39,3 +48,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apratim143&show_icons=true&locale=en" alt="apratim143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apratim143&" alt="apratim143" /></p>
+
+</body>
+</html>
