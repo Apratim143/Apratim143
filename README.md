@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script async='async' crossorigin='anonymous' src='https://kit.fontawesome.com/24de356704.js' type='text/javascript'/>
 
 </head>
 <body>
@@ -29,13 +30,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/apratimmantri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apratimmantri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/apratim-mantri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apratim-mantri" height="30" width="40" /></a>
-<a href="https://fb.com/aprtim.mantri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aprtim.mantri" height="30" width="40" /></a>
-<a href="https://instagram.com/apratim143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apratim143" height="30" width="40" /></a>
-<a href="https://apratim.page.link/Apratim-Mantri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="apratim-mantri" height="30" width="40" /></a>
+<a href="https://twitter.com/apratimmantri" target="blank"><i class='fa-brands fa-twitter fa-lg'/></a>
+<a href="https://linkedin.com/in/apratim-mantri" target="blank"><i class='fa-brands fa-linkedin fa-lg'/></a>
+<a href="https://fb.com/aprtim.mantri" target="blank"><i class='fa-brands fa-facebook fa-lg'/></a>
+<a href="https://instagram.com/apratim143" target="blank"><i class='fa-brands fa-instagram fa-lg'/></a>
+<a href="https://apratim.page.link/Apratim-Mantri" target="blank"><i class='fa-brands fa-youtube fa-lg'/></a>
 </p>
 
+          
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
