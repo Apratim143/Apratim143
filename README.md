@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script async='async' crossorigin='anonymous' src='https://kit.fontawesome.com/24de356704.js' type='text/javascript'/>
-
+  <link href='https://ka-f.fontawesome.com' rel='preconnect'/>
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Apratim Mantri</h1>
